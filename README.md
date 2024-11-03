@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://github.com/girlscript/gssoc-website-new/tree/main/public/badges" width="" height="" />
+<img src="https://github.com/girlscript/gssoc-website-new/tree/main/public/badges" width="100px" height="100px" />
 
 <!---
 Kuldeepcoder2006/Kuldeepcoder2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
